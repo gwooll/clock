@@ -8,7 +8,7 @@
 
     <style>
 
-
+theme: jekyll-theme-minimal.
         body{
             font-variant-caps: all-petite-caps;
 
