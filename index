@@ -10,7 +10,7 @@
 
 
         body{
-           
+            font-variant-caps: all-petite-caps;
 
 
         }
@@ -37,12 +37,12 @@
 
         .date {
       
-            font-family: roboto;
+            font-family: monospace;
             font-size: 2em;
         }
 
         .clock {
-            font-family: roboto;
+            font-family: monospace;
             font-size: 2em;
         }
 
